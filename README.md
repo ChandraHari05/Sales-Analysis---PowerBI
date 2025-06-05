@@ -49,7 +49,7 @@ The dashboard works with a structured sales dataset containing:
 
 ## 🖼️ Screenshots
 
-> *(Insert screenshots of your dashboard here once uploaded to GitHub)*
+> ![Imagealt](https://github.com/ChandraHari05/Sales-Analysis---PowerBI/blob/b47573522809ea2907d884336eea8a0f3a31ac02/Sales%20Analysis/Screenshot%202025-06-04%20124838.png)
 
 ---
 
