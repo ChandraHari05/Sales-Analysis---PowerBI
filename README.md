@@ -71,9 +71,9 @@ The dashboard works with a structured sales dataset containing:
 ## ✍️ Author
 
 **Your Name**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🔗 [GitHub](https://github.com/yourusername)
+📧 [charimudali05@com]  
+🔗 [LinkedIn](www.linkedin.com/in/chandrahari-u-0082ba270)  
+🔗 [GitHub]([https://github.com/yourusername](https://github.com/ChandraHari05))
 
 ---
 
